@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CE4A5673-6852-4CD7-A36F-21D43667B92D}" SchemaVersion="119">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{CE4A5673-6852-4CD7-A36F-21D43667B92D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Bush_Hide_SFX" ID="{3B805179-D535-4188-8A85-F2BD6DDCCBFC}" ShortID="921969281">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-2.6</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{8D1FDA06-B5DA-4A4F-A65E-C2F8C7DA3BC6}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{622272F0-B800-44D5-BD88-47DE3E843B57}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Bush_Hide_SFX" ID="{DD5CAD27-9980-4AF5-A62C-AA31DCEAB3C8}">
+							<PropertyList>
+								<Property Name="FadeInDuration" Type="Real64" Value="0.0163131797172376"/>
+								<Property Name="LoopEnd" Type="Real64" Value="0.769208333333333"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimBegin" Type="Real64" Value="0.107917958129418"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>Bush_Hide_SFX.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="34285485"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Bush_Hide_SFX" ID="{DD5CAD27-9980-4AF5-A62C-AA31DCEAB3C8}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Light_Wind" ID="{F0B3B72F-E761-47FC-85A1-B49CDAF7BDEF}" ShortID="354162827">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="Pitch" Type="int32">
+							<ValueList>
+								<Value>1000</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-14</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{8D1FDA06-B5DA-4A4F-A65E-C2F8C7DA3BC6}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{622272F0-B800-44D5-BD88-47DE3E843B57}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Light_Wind" ID="{A4DC0677-D10E-48C0-9E25-FB639C2FDF32}">
+							<PropertyList>
+								<Property Name="FadeInDuration" Type="Real64" Value="2.97280097879282"/>
+								<Property Name="FadeOutDuration" Type="Real64" Value="2.72506756389343"/>
+								<Property Name="LoopBegin" Type="Real64" Value="12.6344041598695"/>
+								<Property Name="LoopEnd" Type="Real64" Value="71.0994900761283"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimBegin" Type="Real64" Value="9.41386976617727"/>
+								<Property Name="TrimEnd" Type="Real64" Value="74.3200244698205"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>Light_Wind.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="915911138"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Light_Wind" ID="{A4DC0677-D10E-48C0-9E25-FB639C2FDF32}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<RandomSequenceContainer Name="Bird_Chirp" ID="{09FBA4C3-F7EF-4EBF-B4A8-4A06FF120258}" ShortID="843534566">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-12.1</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{8D1FDA06-B5DA-4A4F-A65E-C2F8C7DA3BC6}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{622272F0-B800-44D5-BD88-47DE3E843B57}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Bird_Chirp_Silence_1" ID="{D2C100F5-C1A4-4084-B203-E30388BD8ED0}" ShortID="194799748">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{8D1FDA06-B5DA-4A4F-A65E-C2F8C7DA3BC6}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{622272F0-B800-44D5-BD88-47DE3E843B57}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Bird_Chirp_Silence_1" ID="{FBBB2B7F-70B9-4312-9BA5-B60C5268E330}">
+									<Language>SFX</Language>
+									<AudioFile>Bird_Chirp_Silence_1.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="524189403"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Bird_Chirp_Silence_1" ID="{FBBB2B7F-70B9-4312-9BA5-B60C5268E330}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Bird_Chirp_Silence_2" ID="{1FE4261D-7BA3-4AD2-ABC8-64869D1A102A}" ShortID="552128420">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{8D1FDA06-B5DA-4A4F-A65E-C2F8C7DA3BC6}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{622272F0-B800-44D5-BD88-47DE3E843B57}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Bird_Chirp_Silence_2" ID="{647C0935-D86B-45AB-A88D-5A570200020F}">
+									<Language>SFX</Language>
+									<AudioFile>Bird_Chirp_Silence_2.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1013486078"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Bird_Chirp_Silence_2" ID="{647C0935-D86B-45AB-A88D-5A570200020F}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Bird_Chirp" ID="{0BF6415C-0211-4F66-8946-B75039E02212}" ShortID="880015527">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{8D1FDA06-B5DA-4A4F-A65E-C2F8C7DA3BC6}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{622272F0-B800-44D5-BD88-47DE3E843B57}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Bird_Chirp" ID="{3F8FB09B-A3AA-49AE-9F80-399B2C3728C2}">
+									<Language>SFX</Language>
+									<AudioFile>Bird_Chirp.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="285985108"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Bird_Chirp" ID="{3F8FB09B-A3AA-49AE-9F80-399B2C3728C2}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<Sound Name="Stomach_Growl" ID="{393B6C46-0643-420E-833A-56D011D8AA23}" ShortID="10098893">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-0.6</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{8D1FDA06-B5DA-4A4F-A65E-C2F8C7DA3BC6}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{622272F0-B800-44D5-BD88-47DE3E843B57}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Stomach_Growl" ID="{BBFFA8A4-834E-4AD4-8578-E48B4DB8D6DC}">
+							<Language>SFX</Language>
+							<AudioFile>Stomach_Growl.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="936474937"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Stomach_Growl" ID="{BBFFA8A4-834E-4AD4-8578-E48B4DB8D6DC}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

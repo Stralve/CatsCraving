@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Bush_Hide" ID="{90C23351-3EB0-4482-95C6-5B77995056EA}">
+					<ChildrenList>
+						<Action Name="" ID="{EC0B92F0-80FF-47E3-9DB8-A25A29A49605}" ShortID="693740057">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bush_Hide_SFX" ID="{3B805179-D535-4188-8A85-F2BD6DDCCBFC}" WorkUnitID="{CE4A5673-6852-4CD7-A36F-21D43667B92D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Light_Wind" ID="{402CC96E-D237-45CC-A058-62B16401E298}">
+					<ChildrenList>
+						<Action Name="" ID="{757A1D40-30A6-4239-86EA-7F27191E2188}" ShortID="267630129">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Light_Wind" ID="{F0B3B72F-E761-47FC-85A1-B49CDAF7BDEF}" WorkUnitID="{CE4A5673-6852-4CD7-A36F-21D43667B92D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Bird_Chirp" ID="{D0AE0943-729D-418A-8081-AE88404EC67B}">
+					<ChildrenList>
+						<Action Name="" ID="{BBFCB7F8-4B73-4726-91A9-BF50F8BD31AA}" ShortID="243480779">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bird_Chirp" ID="{09FBA4C3-F7EF-4EBF-B4A8-4A06FF120258}" WorkUnitID="{CE4A5673-6852-4CD7-A36F-21D43667B92D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stomach_Growl" ID="{B4795BCF-31FA-4625-ADCF-CAA35EC13233}">
+					<ChildrenList>
+						<Action Name="" ID="{7EA09B18-39F0-45BB-8342-4A38F676741F}" ShortID="585175908">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Stomach_Growl" ID="{393B6C46-0643-420E-833A-56D011D8AA23}" WorkUnitID="{CE4A5673-6852-4CD7-A36F-21D43667B92D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

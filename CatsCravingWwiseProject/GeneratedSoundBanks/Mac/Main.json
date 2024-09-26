@@ -1,0 +1,133 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{1B0E7F2C-0393-4176-96D6-B771726D5791}",
+    "Language": "SFX",
+    "Hash": "{371BC14D-758F-C44A-744A-1D9E34A163A3}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "34285485",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bush_Hide_SFX.wav",
+      "CachePath": "SFX/Bush_Hide_SFX_223D0AAD.wem"
+     },
+     {
+      "Id": "285985108",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bird_Chirp.wav",
+      "CachePath": "SFX/Bird_Chirp_818F3B66.wem"
+     },
+     {
+      "Id": "524189403",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bird_Chirp_Silence_1.wav",
+      "CachePath": "SFX/Bird_Chirp_Silence_1_818F3B66.wem"
+     },
+     {
+      "Id": "915911138",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Light_Wind.wav",
+      "CachePath": "SFX/Light_Wind_2695217C.wem"
+     },
+     {
+      "Id": "936474937",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Stomach_Growl.wav",
+      "CachePath": "SFX/Stomach_Growl_818F3B66.wem"
+     },
+     {
+      "Id": "1013486078",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bird_Chirp_Silence_2.wav",
+      "CachePath": "SFX/Bird_Chirp_Silence_2_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4011507809",
+      "Name": "Bird_Chirp",
+      "ObjectPath": "\\Events\\Default Work Unit\\Bird_Chirp",
+      "GUID": "{D0AE0943-729D-418A-8081-AE88404EC67B}",
+      "DurationType": "OneShot",
+      "DurationMin": "20.307688",
+      "DurationMax": "22.5",
+      "MediaRefs": [
+       {
+        "Id": "285985108"
+       },
+       {
+        "Id": "524189403"
+       },
+       {
+        "Id": "1013486078"
+       }
+      ]
+     },
+     {
+      "Id": "1006801162",
+      "Name": "Bush_Hide",
+      "ObjectPath": "\\Events\\Default Work Unit\\Bush_Hide",
+      "GUID": "{90C23351-3EB0-4482-95C6-5B77995056EA}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.6613112",
+      "DurationMax": "0.6613112",
+      "MediaRefs": [
+       {
+        "Id": "34285485"
+       }
+      ]
+     },
+     {
+      "Id": "1995930400",
+      "Name": "Light_Wind",
+      "ObjectPath": "\\Events\\Default Work Unit\\Light_Wind",
+      "GUID": "{402CC96E-D237-45CC-A058-62B16401E298}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "915911138"
+       }
+      ]
+     },
+     {
+      "Id": "3382909414",
+      "Name": "Stomach_Growl",
+      "ObjectPath": "\\Events\\Default Work Unit\\Stomach_Growl",
+      "GUID": "{B4795BCF-31FA-4625-ADCF-CAA35EC13233}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.2451875",
+      "DurationMax": "2.2451875",
+      "MediaRefs": [
+       {
+        "Id": "936474937"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9F114DD4-E3E9-61A8-E951-651FD805CE63}"
+ }
+}

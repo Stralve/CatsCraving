@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="3161908922" Type="User" GUID="{1B0E7F2C-0393-4176-96D6-B771726D5791}" Language="SFX" Hash="{371BC14D-758F-C44A-744A-1D9E34A163A3}">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<Media>
+				<File Id="34285485" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Bush_Hide_SFX.wav</ShortName>
+					<CachePath>SFX/Bush_Hide_SFX_223D0AAD.wem</CachePath>
+				</File>
+				<File Id="285985108" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Bird_Chirp.wav</ShortName>
+					<CachePath>SFX/Bird_Chirp_818F3B66.wem</CachePath>
+				</File>
+				<File Id="524189403" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Bird_Chirp_Silence_1.wav</ShortName>
+					<CachePath>SFX/Bird_Chirp_Silence_1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="915911138" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Light_Wind.wav</ShortName>
+					<CachePath>SFX/Light_Wind_2695217C.wem</CachePath>
+				</File>
+				<File Id="936474937" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Stomach_Growl.wav</ShortName>
+					<CachePath>SFX/Stomach_Growl_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1013486078" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Bird_Chirp_Silence_2.wav</ShortName>
+					<CachePath>SFX/Bird_Chirp_Silence_2_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="4011507809" Name="Bird_Chirp" ObjectPath="\Events\Default Work Unit\Bird_Chirp" GUID="{D0AE0943-729D-418A-8081-AE88404EC67B}" DurationType="OneShot" DurationMin="20.307688" DurationMax="22.5">
+					<MediaRefs>
+						<MediaRef Id="285985108"/>
+						<MediaRef Id="524189403"/>
+						<MediaRef Id="1013486078"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1006801162" Name="Bush_Hide" ObjectPath="\Events\Default Work Unit\Bush_Hide" GUID="{90C23351-3EB0-4482-95C6-5B77995056EA}" DurationType="OneShot" DurationMin="0.6613112" DurationMax="0.6613112">
+					<MediaRefs>
+						<MediaRef Id="34285485"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1995930400" Name="Light_Wind" ObjectPath="\Events\Default Work Unit\Light_Wind" GUID="{402CC96E-D237-45CC-A058-62B16401E298}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="915911138"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3382909414" Name="Stomach_Growl" ObjectPath="\Events\Default Work Unit\Stomach_Growl" GUID="{B4795BCF-31FA-4625-ADCF-CAA35EC13233}" DurationType="OneShot" DurationMin="2.2451875" DurationMax="2.2451875">
+					<MediaRefs>
+						<MediaRef Id="936474937"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{3D65D415-6702-E349-9DA7-FB2CFBBA0954}</FileHash>
+</SoundBanksInfo>

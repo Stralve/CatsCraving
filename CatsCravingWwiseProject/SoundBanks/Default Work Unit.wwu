@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{23B5928B-1377-4996-9210-729F49863EA0}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{23B5928B-1377-4996-9210-729F49863EA0}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{1B0E7F2C-0393-4176-96D6-B771726D5791}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Bird_Chirp" ID="{D0AE0943-729D-418A-8081-AE88404EC67B}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Bush_Hide" ID="{90C23351-3EB0-4482-95C6-5B77995056EA}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Light_Wind" ID="{402CC96E-D237-45CC-A058-62B16401E298}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stomach_Growl" ID="{B4795BCF-31FA-4625-ADCF-CAA35EC13233}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

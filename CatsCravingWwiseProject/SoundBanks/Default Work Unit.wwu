@@ -9,6 +9,7 @@
 						<ObjectRef Name="Bush_Hide" ID="{90C23351-3EB0-4482-95C6-5B77995056EA}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Light_Wind" ID="{402CC96E-D237-45CC-A058-62B16401E298}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Stomach_Growl" ID="{B4795BCF-31FA-4625-ADCF-CAA35EC13233}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player_Jump" ID="{7CABB570-1C06-4919-830F-A67EA3B4C4AD}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

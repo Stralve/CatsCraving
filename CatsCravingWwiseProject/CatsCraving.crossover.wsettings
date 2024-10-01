@@ -5,6 +5,7 @@
 			<PropertyList>
 				<Property Name="AudioFilesImporter\Path" Type="string" Value="Y:\Downloads\"/>
 				<Property Name="Event Action List\{402CC96E-D237-45CC-A058-62B16401E298}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{7CABB570-1C06-4919-830F-A67EA3B4C4AD}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{90C23351-3EB0-4482-95C6-5B77995056EA}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{B4795BCF-31FA-4625-ADCF-CAA35EC13233}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{D0AE0943-729D-418A-8081-AE88404EC67B}\x64_Expand States" Type="string" Value=""/>
@@ -39,11 +40,11 @@
 				<Property Name="MonitoringManager\GameObjectFilter\GameObjectFilterVersion" Type="int32" Value="1"/>
 				<Property Name="MonitoringManager\GameObjectFilter\GameObjectFiltersEnable" Type="bool" Value="True"/>
 				<Property Name="MonitoringManager\GameObjectFilter\x64_GameObjectFilters" Type="string" Value=""/>
-				<Property Name="ObjectTabPanel\x64_CurrentObjects_{031E1E2C-DC25-4332-80C3-FFCC371AC803}" Type="string" Value="ewAzADkAMwBCADYAQwA0ADYALQAwADYANAAzAC0ANAAyADAARQAtADgAMwAzAEEALQA1ADYARAAwADEAMQBEADgAQQBBADIAMwB9AAAAAAE="/>
+				<Property Name="ObjectTabPanel\x64_CurrentObjects_{031E1E2C-DC25-4332-80C3-FFCC371AC803}" Type="string" Value="ewAzAEMANgAwADAARQAxADEALQBEAEYANQBBAC0ANAAzAEIAOAAtAEEAOAA1ADYALQAwADcAOQBEADgAOQAyAEQANQA0ADUAOAB9AAAAAAE="/>
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{618C1FF9-37D4-45A7-AF0A-E2D511E44707}" Type="string" Value=""/>
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{826CEF9F-ACB3-45D2-8319-9C9994E4CA5C}" Type="string" Value=""/>
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{A45AAC64-78D1-46A7-88FA-F242B38651B4}" Type="string" Value=""/>
-				<Property Name="ObjectTabPanel\x64_CurrentObjects_{D5805147-985E-4C5B-B817-369AF1B7184D}" Type="string" Value="ewBCADQANwA5ADUAQgBDAEYALQAzADEARgBBAC0ANAA2ADIANQAtAEEARABDAEYALQBDAEEAQQAzADUARQBDADEAMwAyADMAMwB9AAAAAAE="/>
+				<Property Name="ObjectTabPanel\x64_CurrentObjects_{D5805147-985E-4C5B-B817-369AF1B7184D}" Type="string" Value="ewAxAEIAMABFADcARgAyAEMALQAwADMAOQAzAC0ANAAxADcANgAtADkANgBEADYALQBCADcANwAxADcAMgA2AEQANQA3ADkAMQB9AAAAAAE="/>
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{FB6925F8-3EDD-42F1-B446-654A30D756CF}" Type="string" Value=""/>
 				<Property Name="OverrideCacheFolder\Active" Type="bool" Value="False"/>
 				<Property Name="OverrideCacheFolder\Path" Type="string" Value=".cache"/>
@@ -58,7 +59,7 @@
 				<Property Name="ProjectExplorer\QueriesSelectionChannel1\ProjectExplorer2LastScrollState" Type="int32" Value="0"/>
 				<Property Name="ProjectExplorer\QueriesSelectionChannel1\x64_ProjectExplorer2LastExpandedState" Type="string" Value="4y3sI9g+gkusmZLiXy5Maw=="/>
 				<Property Name="ProjectExplorer\SelectionChannel1\CurrentSearch" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\SelectionChannel1\CurrentTab" Type="int32" Value="1"/>
+				<Property Name="ProjectExplorer\SelectionChannel1\CurrentTab" Type="int32" Value="0"/>
 				<Property Name="ProjectExplorer\SessionsSelectionChannel1\ProjectExplorer2LastScrollState" Type="int32" Value="0"/>
 				<Property Name="ProjectExplorer\SessionsSelectionChannel1\x64_ProjectExplorer2LastExpandedState" Type="string" Value="i7OWTLQ9x0CRyWZVEOOJk/eqd2Rl45BJo5Llm4JLZBjN5FEXGIAsTpqKx3dk0dZT"/>
 				<Property Name="ProjectExplorer\ShareSetsSelectionChannel1\ProjectExplorer2LastScrollState" Type="int32" Value="0"/>

@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{B1D74519-8308-847E-F4A8-593DF9FE51F5}">
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{870750BF-1037-6D0E-0BEE-C5333AAF3DE1}">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
@@ -151,14 +151,14 @@
 				</AcousticTexture>
 			</AcousticTextures>
 		</SoundBank>
-		<SoundBank Id="3161908922" Type="User" GUID="{1B0E7F2C-0393-4176-96D6-B771726D5791}" Language="SFX" Hash="{371BC14D-758F-C44A-744A-1D9E34A163A3}">
+		<SoundBank Id="3161908922" Type="User" GUID="{1B0E7F2C-0393-4176-96D6-B771726D5791}" Language="SFX" Hash="{25BFEA6E-5E63-82BC-8747-A449608C519B}">
 			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<Media>
 				<File Id="34285485" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Bush_Hide_SFX.wav</ShortName>
-					<CachePath>SFX/Bush_Hide_SFX_223D0AAD.wem</CachePath>
+					<CachePath>SFX/Bush_Hide_SFX_819B0E22.wem</CachePath>
 				</File>
 				<File Id="285985108" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Bird_Chirp.wav</ShortName>
@@ -167,6 +167,10 @@
 				<File Id="524189403" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Bird_Chirp_Silence_1.wav</ShortName>
 					<CachePath>SFX/Bird_Chirp_Silence_1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="883724864" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Player_Jump.wav</ShortName>
+					<CachePath>SFX/Player_Jump_818F3B66.wem</CachePath>
 				</File>
 				<File Id="915911138" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Light_Wind.wav</ShortName>
@@ -181,6 +185,11 @@
 					<CachePath>SFX/Bird_Chirp_Silence_2_818F3B66.wem</CachePath>
 				</File>
 			</Media>
+			<Plugins>
+				<Custom>
+					<Plugin Id="1069441436" Name="Parametric EQ (Custom)" ObjectPath="\Actor-Mixer Hierarchy\Default Work Unit\Player_Jump\[Effect Slot [0]: (Parametric EQ)]\Parametric EQ (Custom)" GUID="{89B18F2D-4A48-4755-8B64-FFFF7E4561C2}" LibName="Wwise Parametric EQ" LibId="6881283"/>
+				</Custom>
+			</Plugins>
 			<Events>
 				<Event Id="4011507809" Name="Bird_Chirp" ObjectPath="\Events\Default Work Unit\Bird_Chirp" GUID="{D0AE0943-729D-418A-8081-AE88404EC67B}" DurationType="OneShot" DurationMin="20.307688" DurationMax="22.5">
 					<MediaRefs>
@@ -189,7 +198,7 @@
 						<MediaRef Id="1013486078"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1006801162" Name="Bush_Hide" ObjectPath="\Events\Default Work Unit\Bush_Hide" GUID="{90C23351-3EB0-4482-95C6-5B77995056EA}" DurationType="OneShot" DurationMin="0.6613112" DurationMax="0.6613112">
+				<Event Id="1006801162" Name="Bush_Hide" ObjectPath="\Events\Default Work Unit\Bush_Hide" GUID="{90C23351-3EB0-4482-95C6-5B77995056EA}" DurationType="OneShot" DurationMin="0.6838987" DurationMax="0.6838987">
 					<MediaRefs>
 						<MediaRef Id="34285485"/>
 					</MediaRefs>
@@ -199,6 +208,16 @@
 						<MediaRef Id="915911138"/>
 					</MediaRefs>
 				</Event>
+				<Event Id="1305133589" Name="Player_Jump" ObjectPath="\Events\Default Work Unit\Player_Jump" GUID="{7CABB570-1C06-4919-830F-A67EA3B4C4AD}" DurationType="OneShot" DurationMin="0.8173125" DurationMax="0.8173125">
+					<MediaRefs>
+						<MediaRef Id="883724864"/>
+					</MediaRefs>
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="1069441436"/>
+						</Custom>
+					</PluginRefs>
+				</Event>
 				<Event Id="3382909414" Name="Stomach_Growl" ObjectPath="\Events\Default Work Unit\Stomach_Growl" GUID="{B4795BCF-31FA-4625-ADCF-CAA35EC13233}" DurationType="OneShot" DurationMin="2.2451875" DurationMax="2.2451875">
 					<MediaRefs>
 						<MediaRef Id="936474937"/>
@@ -207,5 +226,5 @@
 			</Events>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{D1BFE76E-C049-D0AB-37EF-F38346189946}</FileHash>
+	<FileHash>{EB1BC6FC-7320-9C4B-2622-0023888F5636}</FileHash>
 </SoundBanksInfo>

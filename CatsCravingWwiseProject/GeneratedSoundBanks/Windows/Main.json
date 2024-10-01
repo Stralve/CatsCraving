@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{1B0E7F2C-0393-4176-96D6-B771726D5791}",
     "Language": "SFX",
-    "Hash": "{371BC14D-758F-C44A-744A-1D9E34A163A3}",
+    "Hash": "{25BFEA6E-5E63-82BC-8747-A449608C519B}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -21,7 +21,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Bush_Hide_SFX.wav",
-      "CachePath": "SFX/Bush_Hide_SFX_223D0AAD.wem"
+      "CachePath": "SFX/Bush_Hide_SFX_819B0E22.wem"
      },
      {
       "Id": "285985108",
@@ -38,6 +38,14 @@
       "Location": "Memory",
       "ShortName": "Bird_Chirp_Silence_1.wav",
       "CachePath": "SFX/Bird_Chirp_Silence_1_818F3B66.wem"
+     },
+     {
+      "Id": "883724864",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Player_Jump.wav",
+      "CachePath": "SFX/Player_Jump_818F3B66.wem"
      },
      {
       "Id": "915911138",
@@ -64,6 +72,18 @@
       "CachePath": "SFX/Bird_Chirp_Silence_2_818F3B66.wem"
      }
     ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "1069441436",
+       "Name": "Parametric EQ (Custom)",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Player_Jump\\[Effect Slot [0]: (Parametric EQ)]\\Parametric EQ (Custom)",
+       "GUID": "{89B18F2D-4A48-4755-8B64-FFFF7E4561C2}",
+       "LibName": "Wwise Parametric EQ",
+       "LibId": "6881283"
+      }
+     ]
+    },
     "Events": [
      {
       "Id": "4011507809",
@@ -91,8 +111,8 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Bush_Hide",
       "GUID": "{90C23351-3EB0-4482-95C6-5B77995056EA}",
       "DurationType": "OneShot",
-      "DurationMin": "0.6613112",
-      "DurationMax": "0.6613112",
+      "DurationMin": "0.6838987",
+      "DurationMax": "0.6838987",
       "MediaRefs": [
        {
         "Id": "34285485"
@@ -112,6 +132,27 @@
       ]
      },
      {
+      "Id": "1305133589",
+      "Name": "Player_Jump",
+      "ObjectPath": "\\Events\\Default Work Unit\\Player_Jump",
+      "GUID": "{7CABB570-1C06-4919-830F-A67EA3B4C4AD}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.8173125",
+      "DurationMax": "0.8173125",
+      "MediaRefs": [
+       {
+        "Id": "883724864"
+       }
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "1069441436"
+        }
+       ]
+      }
+     },
+     {
       "Id": "3382909414",
       "Name": "Stomach_Growl",
       "ObjectPath": "\\Events\\Default Work Unit\\Stomach_Growl",
@@ -128,6 +169,6 @@
     ]
    }
   ],
-  "FileHash": "{F8FA8CF4-2BCC-F641-3E6C-8EE6C7DD3C5C}"
+  "FileHash": "{F8716945-D10D-C2D1-450A-83ECFEA8DE88}"
  }
 }

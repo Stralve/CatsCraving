@@ -9,11 +9,11 @@ Effect plug-ins	ID	Name	Type				Notes
 	1069441436	Parametric EQ (Custom)	Wwise Parametric EQ			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	34285485	Bush_Hide_SFX	Y:\Documents\GitHub\CatsCraving\CatsCravingWwiseProject\.cache\Mac\SFX\Bush_Hide_SFX_819B0E22.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bush_Hide_SFX		131452
-	285985108	Bird_Chirp	Y:\Documents\GitHub\CatsCraving\CatsCravingWwiseProject\.cache\Mac\SFX\Bird_Chirp_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bird_Chirp\Bird_Chirp		4320144
-	524189403	Bird_Chirp_Silence_1	Y:\Documents\GitHub\CatsCraving\CatsCravingWwiseProject\.cache\Mac\SFX\Bird_Chirp_Silence_1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bird_Chirp\Bird_Chirp_Silence_1		3899220
-	883724864	Player_Jump	Y:\Documents\GitHub\CatsCraving\CatsCravingWwiseProject\.cache\Mac\SFX\Player_Jump_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Jump		157068
-	915911138	Light_Wind	Y:\Documents\GitHub\CatsCraving\CatsCravingWwiseProject\.cache\Mac\SFX\Light_Wind_2695217C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Light_Wind		12462124
-	936474937	Stomach_Growl	Y:\Documents\GitHub\CatsCraving\CatsCravingWwiseProject\.cache\Mac\SFX\Stomach_Growl_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Stomach_Growl		431220
-	1013486078	Bird_Chirp_Silence_2	Y:\Documents\GitHub\CatsCraving\CatsCravingWwiseProject\.cache\Mac\SFX\Bird_Chirp_Silence_2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bird_Chirp\Bird_Chirp_Silence_2		3899220
+	34285485	Bush_Hide_SFX	Y:\Documents\CatsCravingWwiseProject\.cache\Mac\SFX\Bush_Hide_SFX_666D8AC0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bush_Hide_SFX		131452
+	285985108	Bird_Chirp	Y:\Documents\CatsCravingWwiseProject\.cache\Mac\SFX\Bird_Chirp_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bird_Chirp\Bird_Chirp		4320144
+	524189403	Bird_Chirp_Silence_1	Y:\Documents\CatsCravingWwiseProject\.cache\Mac\SFX\Bird_Chirp_Silence_1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bird_Chirp\Bird_Chirp_Silence_1		3899220
+	883724864	Player_Jump	Y:\Documents\CatsCravingWwiseProject\.cache\Mac\SFX\Player_Jump_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Jump		157068
+	915911138	Light_Wind	Y:\Documents\CatsCravingWwiseProject\.cache\Mac\SFX\Light_Wind_2695217C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Light_Wind		12462124
+	936474937	Stomach_Growl	Y:\Documents\CatsCravingWwiseProject\.cache\Mac\SFX\Stomach_Growl_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Stomach_Growl		431220
+	1013486078	Bird_Chirp_Silence_2	Y:\Documents\CatsCravingWwiseProject\.cache\Mac\SFX\Bird_Chirp_Silence_2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bird_Chirp\Bird_Chirp_Silence_2		3899220
 

@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{1B0E7F2C-0393-4176-96D6-B771726D5791}",
     "Language": "SFX",
-    "Hash": "{25BFEA6E-5E63-82BC-8747-A449608C519B}",
+    "Hash": "{899F517E-57C7-2535-9E8B-7890FAD6C476}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -21,7 +21,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Bush_Hide_SFX.wav",
-      "CachePath": "SFX/Bush_Hide_SFX_819B0E22.wem"
+      "CachePath": "SFX/Bush_Hide_SFX_666D8AC0.wem"
      },
      {
       "Id": "285985108",
@@ -169,6 +169,6 @@
     ]
    }
   ],
-  "FileHash": "{7304285E-9E10-2883-D961-7BC0438CAF9E}"
+  "FileHash": "{494296DE-B793-6C3B-5B77-D0A913247AF3}"
  }
 }

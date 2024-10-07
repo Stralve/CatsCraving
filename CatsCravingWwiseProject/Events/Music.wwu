@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EAF34A4B-2EB2-4053-AF76-EE8799E4F82D}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Music" ID="{EAF34A4B-2EB2-4053-AF76-EE8799E4F82D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Farm_BGM" ID="{674B9D07-7357-457D-BF35-E184C334840A}">
+					<ChildrenList>
+						<Action Name="" ID="{FDBE4C8F-6F12-4DD6-AB40-711D71F170B2}" ShortID="996270368">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Farm_BGM" ID="{161EFCC3-2FC2-4CCA-8197-919F598DB30B}" WorkUnitID="{248CD504-541F-4A8C-B857-CB1114774529}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Forest_BGM" ID="{0AD6F900-FE7A-4649-AF7A-66FB703D2CE2}">
+					<ChildrenList>
+						<Action Name="" ID="{C91D3922-253F-46F7-9870-3DEEFCEDC1D3}" ShortID="536599788">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Forest_BGM" ID="{DE8B59DF-87F7-41D4-B034-4A3F8C69EBA3}" WorkUnitID="{248CD504-541F-4A8C-B857-CB1114774529}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Main_Menu_BGM" ID="{EF96CDDC-B6D3-4FBE-BE60-7DCD24238EF6}">
+					<ChildrenList>
+						<Action Name="" ID="{315EDFB3-5512-4186-8E5F-2F2E2C7E99C2}" ShortID="20130862">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Main_Menu_BGM" ID="{5497BF2C-81DA-4387-8A9B-3A90525A2625}" WorkUnitID="{248CD504-541F-4A8C-B857-CB1114774529}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Win_BGM" ID="{F7855381-DEF7-4583-AFB9-5F110A8E9C2C}">
+					<ChildrenList>
+						<Action Name="" ID="{62AD31CE-ADF4-40EC-AE34-19678647C143}" ShortID="877588261">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Win_BGM" ID="{E5D097D1-0D8E-4DAC-AEC8-96959654C536}" WorkUnitID="{248CD504-541F-4A8C-B857-CB1114774529}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Game_Over_BGM" ID="{B975D4E4-1B16-4569-A876-70B63D5C8075}">
+					<ChildrenList>
+						<Action Name="" ID="{AFCEC5A3-B825-4F8F-B59D-FC3E2D043399}" ShortID="214038197">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Game_Over_BGM" ID="{09A791C4-5492-4E66-B882-230C59BC3CB5}" WorkUnitID="{248CD504-541F-4A8C-B857-CB1114774529}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Loading_Screen_BGM" ID="{3CBE6C1A-AB2E-4444-B821-287B065562F9}">
+					<ChildrenList>
+						<Action Name="" ID="{3E64A7D7-5A37-415B-B586-AC8A6D00A677}" ShortID="1055511337">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Loading_Screen_BGM" ID="{D02533FC-0D29-4542-BFD8-9DEA152D4984}" WorkUnitID="{248CD504-541F-4A8C-B857-CB1114774529}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

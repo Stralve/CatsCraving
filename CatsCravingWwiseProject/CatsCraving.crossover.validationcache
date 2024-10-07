@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="119">
+	<ValidationCacheItem File="Z:\Volumes\2023_2024\CATS CRAVING\CatsCraving\CatsCravingWwiseProject\CatsCraving.wproj" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\2023_2024\CATS CRAVING\CatsCraving\CatsCravingWwiseProject\CatsCraving.crossover.wsettings" DateLow="1728316598" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\CatsCraving\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1727330445" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\CatsCraving\Virtual Acoustics\Default Work Unit.wwu" DateLow="1727334442" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\CatsCraving\Triggers\Default Work Unit.wwu" DateLow="1727334442" DateHigh="0"/>
@@ -60,4 +62,36 @@
 	<ValidationCacheItem File="Y:\Documents\GitHub\CatsCraving\CatsCravingWwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1727334442" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\CatsCraving\CatsCravingWwiseProject\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1727330445" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\GitHub\CatsCraving\CatsCravingWwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1727583506" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Triggers\Default Work Unit.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Switches\Default Work Unit.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\States\Default Work Unit.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Queries\Factory Queries.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Queries\Default Work Unit.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Presets\Default Work Unit.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Modulators\Default Work Unit.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1727903714" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Metadata\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Interactive Music Hierarchy\Music.wwu" DateLow="1728327263" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Events\Music.wwu" DateLow="1728314923" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Events\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Effects\Factory Effects.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Effects\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\CatsCraving.wproj" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\CatsCraving.crossover.wsettings" DateLow="1728327265" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1727903713" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\CatsCravingWwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1727903713" DateHigh="0"/>
 </ValidationCache>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
 	<SoundBanks>
-		<SoundBank Id="3161908922" Type="User" GUID="{1B0E7F2C-0393-4176-96D6-B771726D5791}" Language="SFX" Hash="{25BFEA6E-5E63-82BC-8747-A449608C519B}">
+		<SoundBank Id="3161908922" Type="User" GUID="{1B0E7F2C-0393-4176-96D6-B771726D5791}" Language="SFX" Hash="{899F517E-57C7-2535-9E8B-7890FAD6C476}">
 			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<Media>
 				<File Id="34285485" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Bush_Hide_SFX.wav</ShortName>
-					<CachePath>SFX/Bush_Hide_SFX_819B0E22.wem</CachePath>
+					<CachePath>SFX/Bush_Hide_SFX_666D8AC0.wem</CachePath>
 				</File>
 				<File Id="285985108" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Bird_Chirp.wav</ShortName>
@@ -76,5 +76,5 @@
 			</Events>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{92D55DF9-DB6A-4439-5E3A-A83865AEBB8F}</FileHash>
+	<FileHash>{07C993B3-AC18-2FB6-57C9-244B83E0FAEB}</FileHash>
 </SoundBanksInfo>

@@ -1,0 +1,191 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "3991942870",
+    "Type": "User",
+    "GUID": "{35D2EC8C-4AEE-4B63-8F12-F85C54D93F96}",
+    "Language": "SFX",
+    "Hash": "{35BAFC98-93B4-A3EA-97C0-7FA3FD89908B}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Music",
+    "ShortName": "Music",
+    "Path": "Music.bnk",
+    "Media": [
+     {
+      "Id": "25807604",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Loading-Screen_102bpm.wav",
+      "CachePath": "SFX/Loading-Screen_102bpm_FBC78EF0.wem"
+     },
+     {
+      "Id": "187933395",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Farm_96bpm.wav",
+      "CachePath": "SFX/Farm_96bpm_FBC78EF0.wem"
+     },
+     {
+      "Id": "212820908",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Game-Over_38bpm_intro.wav",
+      "CachePath": "SFX/Game-Over_38bpm_intro_FBC78EF0.wem"
+     },
+     {
+      "Id": "414420615",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Win_70bpm.wav",
+      "CachePath": "SFX/Win_70bpm_FBC78EF0.wem"
+     },
+     {
+      "Id": "465635206",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Forest-Exploring_66bpm_intro.wav",
+      "CachePath": "SFX/Forest-Exploring_66bpm_intro_FBC78EF0.wem"
+     },
+     {
+      "Id": "560918184",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Game-Over_38bpm_loop_pt1.wav",
+      "CachePath": "SFX/Game-Over_38bpm_loop_pt1_FBC78EF0.wem"
+     },
+     {
+      "Id": "597820407",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Main-Menu_116bpm_loop.wav",
+      "CachePath": "SFX/Main-Menu_116bpm_loop_FBC78EF0.wem"
+     },
+     {
+      "Id": "638774494",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Forest-Exploring_66bpm_loop.wav",
+      "CachePath": "SFX/Forest-Exploring_66bpm_loop_FBC78EF0.wem"
+     },
+     {
+      "Id": "647933412",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Main-Menu_116bpm_intro.wav",
+      "CachePath": "SFX/Main-Menu_116bpm_intro_FBC78EF0.wem"
+     },
+     {
+      "Id": "871365653",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Game-Over_38bpm_loop_pt2.wav",
+      "CachePath": "SFX/Game-Over_38bpm_loop_pt2_FBC78EF0.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4095620922",
+      "Name": "Farm_BGM",
+      "ObjectPath": "\\Events\\Music\\Farm_BGM",
+      "GUID": "{674B9D07-7357-457D-BF35-E184C334840A}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "187933395"
+       }
+      ]
+     },
+     {
+      "Id": "3231757965",
+      "Name": "Forest_BGM",
+      "ObjectPath": "\\Events\\Music\\Forest_BGM",
+      "GUID": "{0AD6F900-FE7A-4649-AF7A-66FB703D2CE2}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "465635206"
+       },
+       {
+        "Id": "638774494"
+       }
+      ]
+     },
+     {
+      "Id": "2111084023",
+      "Name": "Game_Over_BGM",
+      "ObjectPath": "\\Events\\Music\\Game_Over_BGM",
+      "GUID": "{B975D4E4-1B16-4569-A876-70B63D5C8075}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "212820908"
+       },
+       {
+        "Id": "560918184"
+       },
+       {
+        "Id": "871365653"
+       }
+      ]
+     },
+     {
+      "Id": "493168985",
+      "Name": "Loading_Screen_BGM",
+      "ObjectPath": "\\Events\\Music\\Loading_Screen_BGM",
+      "GUID": "{3CBE6C1A-AB2E-4444-B821-287B065562F9}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "25807604"
+       }
+      ]
+     },
+     {
+      "Id": "2788066663",
+      "Name": "Main_Menu_BGM",
+      "ObjectPath": "\\Events\\Music\\Main_Menu_BGM",
+      "GUID": "{EF96CDDC-B6D3-4FBE-BE60-7DCD24238EF6}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "597820407"
+       },
+       {
+        "Id": "647933412"
+       }
+      ]
+     },
+     {
+      "Id": "3291746406",
+      "Name": "Win_BGM",
+      "ObjectPath": "\\Events\\Music\\Win_BGM",
+      "GUID": "{F7855381-DEF7-4583-AFB9-5F110A8E9C2C}",
+      "DurationType": "OneShot",
+      "DurationMin": "10.301958",
+      "DurationMax": "10.301958",
+      "MediaRefs": [
+       {
+        "Id": "414420615"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F99747C8-7810-3263-76FA-11F605CDD3C1}"
+ }
+}

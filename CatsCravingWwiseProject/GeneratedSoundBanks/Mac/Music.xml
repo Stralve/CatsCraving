@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
 	<SoundBanks>
-		<SoundBank Id="3991942870" Type="User" GUID="{35D2EC8C-4AEE-4B63-8F12-F85C54D93F96}" Language="SFX" Hash="{35BAFC98-93B4-A3EA-97C0-7FA3FD89908B}">
+		<SoundBank Id="3991942870" Type="User" GUID="{35D2EC8C-4AEE-4B63-8F12-F85C54D93F96}" Language="SFX" Hash="{62C3406C-457B-1671-8032-6AA0B675BBE6}">
 			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
 			<ShortName>Music</ShortName>
 			<Path>Music.bnk</Path>
 			<Media>
-				<File Id="25807604" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Loading-Screen_102bpm.wav</ShortName>
-					<CachePath>SFX/Loading-Screen_102bpm_FBC78EF0.wem</CachePath>
-				</File>
 				<File Id="187933395" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Farm_96bpm.wav</ShortName>
 					<CachePath>SFX/Farm_96bpm_FBC78EF0.wem</CachePath>
 				</File>
+				<File Id="194523828" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Town_108bpm_loop.wav</ShortName>
+					<CachePath>SFX/Town_108bpm_loop_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="202569068" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Town_108bpm_intro.wav</ShortName>
+					<CachePath>SFX/Town_108bpm_intro_FBC78EF0.wem</CachePath>
+				</File>
 				<File Id="212820908" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Game-Over_38bpm_intro.wav</ShortName>
 					<CachePath>SFX/Game-Over_38bpm_intro_FBC78EF0.wem</CachePath>
-				</File>
-				<File Id="414420615" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Win_70bpm.wav</ShortName>
-					<CachePath>SFX/Win_70bpm_FBC78EF0.wem</CachePath>
 				</File>
 				<File Id="465635206" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Forest-Exploring_66bpm_intro.wav</ShortName>
@@ -66,24 +66,20 @@
 						<MediaRef Id="871365653"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="493168985" Name="Loading_Screen_BGM" ObjectPath="\Events\Music\Loading_Screen_BGM" GUID="{3CBE6C1A-AB2E-4444-B821-287B065562F9}" DurationType="Infinite">
-					<MediaRefs>
-						<MediaRef Id="25807604"/>
-					</MediaRefs>
-				</Event>
 				<Event Id="2788066663" Name="Main_Menu_BGM" ObjectPath="\Events\Music\Main_Menu_BGM" GUID="{EF96CDDC-B6D3-4FBE-BE60-7DCD24238EF6}" DurationType="Infinite">
 					<MediaRefs>
 						<MediaRef Id="597820407"/>
 						<MediaRef Id="647933412"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3291746406" Name="Win_BGM" ObjectPath="\Events\Music\Win_BGM" GUID="{F7855381-DEF7-4583-AFB9-5F110A8E9C2C}" DurationType="OneShot" DurationMin="10.301958" DurationMax="10.301958">
+				<Event Id="4236911706" Name="Town_BGM" ObjectPath="\Events\Music\Town_BGM" GUID="{090A0A5E-EAF3-4CE6-B808-17ED4AD46D4C}" DurationType="Infinite">
 					<MediaRefs>
-						<MediaRef Id="414420615"/>
+						<MediaRef Id="194523828"/>
+						<MediaRef Id="202569068"/>
 					</MediaRefs>
 				</Event>
 			</Events>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{53ADA996-55F1-4067-9E55-C6DAF4A93ED0}</FileHash>
+	<FileHash>{D1194C32-F5A5-B8FD-D171-2AB63ECB6F2F}</FileHash>
 </SoundBanksInfo>

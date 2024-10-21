@@ -10,19 +10,11 @@
     "Type": "User",
     "GUID": "{35D2EC8C-4AEE-4B63-8F12-F85C54D93F96}",
     "Language": "SFX",
-    "Hash": "{35BAFC98-93B4-A3EA-97C0-7FA3FD89908B}",
+    "Hash": "{62C3406C-457B-1671-8032-6AA0B675BBE6}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Music",
     "ShortName": "Music",
     "Path": "Music.bnk",
     "Media": [
-     {
-      "Id": "25807604",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "Loading-Screen_102bpm.wav",
-      "CachePath": "SFX/Loading-Screen_102bpm_FBC78EF0.wem"
-     },
      {
       "Id": "187933395",
       "Language": "SFX",
@@ -32,20 +24,28 @@
       "CachePath": "SFX/Farm_96bpm_FBC78EF0.wem"
      },
      {
+      "Id": "194523828",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Town_108bpm_loop.wav",
+      "CachePath": "SFX/Town_108bpm_loop_FBC78EF0.wem"
+     },
+     {
+      "Id": "202569068",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Town_108bpm_intro.wav",
+      "CachePath": "SFX/Town_108bpm_intro_FBC78EF0.wem"
+     },
+     {
       "Id": "212820908",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Game-Over_38bpm_intro.wav",
       "CachePath": "SFX/Game-Over_38bpm_intro_FBC78EF0.wem"
-     },
-     {
-      "Id": "414420615",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "Win_70bpm.wav",
-      "CachePath": "SFX/Win_70bpm_FBC78EF0.wem"
      },
      {
       "Id": "465635206",
@@ -143,18 +143,6 @@
       ]
      },
      {
-      "Id": "493168985",
-      "Name": "Loading_Screen_BGM",
-      "ObjectPath": "\\Events\\Music\\Loading_Screen_BGM",
-      "GUID": "{3CBE6C1A-AB2E-4444-B821-287B065562F9}",
-      "DurationType": "Infinite",
-      "MediaRefs": [
-       {
-        "Id": "25807604"
-       }
-      ]
-     },
-     {
       "Id": "2788066663",
       "Name": "Main_Menu_BGM",
       "ObjectPath": "\\Events\\Music\\Main_Menu_BGM",
@@ -170,22 +158,23 @@
       ]
      },
      {
-      "Id": "3291746406",
-      "Name": "Win_BGM",
-      "ObjectPath": "\\Events\\Music\\Win_BGM",
-      "GUID": "{F7855381-DEF7-4583-AFB9-5F110A8E9C2C}",
-      "DurationType": "OneShot",
-      "DurationMin": "10.301958",
-      "DurationMax": "10.301958",
+      "Id": "4236911706",
+      "Name": "Town_BGM",
+      "ObjectPath": "\\Events\\Music\\Town_BGM",
+      "GUID": "{090A0A5E-EAF3-4CE6-B808-17ED4AD46D4C}",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
-        "Id": "414420615"
+        "Id": "194523828"
+       },
+       {
+        "Id": "202569068"
        }
       ]
      }
     ]
    }
   ],
-  "FileHash": "{6ED26B14-5B2C-4ED9-CC5B-595B270F53C5}"
+  "FileHash": "{19F16F58-5A0D-AD94-235E-AC996A3C7053}"
  }
 }

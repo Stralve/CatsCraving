@@ -36,17 +36,6 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Win_BGM" ID="{F7855381-DEF7-4583-AFB9-5F110A8E9C2C}">
-					<ChildrenList>
-						<Action Name="" ID="{62AD31CE-ADF4-40EC-AE34-19678647C143}" ShortID="877588261">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Win_BGM" ID="{E5D097D1-0D8E-4DAC-AEC8-96959654C536}" WorkUnitID="{248CD504-541F-4A8C-B857-CB1114774529}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
 				<Event Name="Game_Over_BGM" ID="{B975D4E4-1B16-4569-A876-70B63D5C8075}">
 					<ChildrenList>
 						<Action Name="" ID="{AFCEC5A3-B825-4F8F-B59D-FC3E2D043399}" ShortID="214038197">
@@ -58,12 +47,12 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Loading_Screen_BGM" ID="{3CBE6C1A-AB2E-4444-B821-287B065562F9}">
+				<Event Name="Town_BGM" ID="{090A0A5E-EAF3-4CE6-B808-17ED4AD46D4C}">
 					<ChildrenList>
-						<Action Name="" ID="{3E64A7D7-5A37-415B-B586-AC8A6D00A677}" ShortID="1055511337">
+						<Action Name="" ID="{74B66FB0-60EC-43C8-AC02-ADB33F8CF1A5}" ShortID="623730665">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Loading_Screen_BGM" ID="{D02533FC-0D29-4542-BFD8-9DEA152D4984}" WorkUnitID="{248CD504-541F-4A8C-B857-CB1114774529}"/>
+									<ObjectRef Name="Town_BGM" ID="{F3678F5A-E36B-4792-AEB8-5FB45FF7A8F3}" WorkUnitID="{248CD504-541F-4A8C-B857-CB1114774529}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

@@ -10,11 +10,19 @@
     "Type": "User",
     "GUID": "{1B0E7F2C-0393-4176-96D6-B771726D5791}",
     "Language": "SFX",
-    "Hash": "{899F517E-57C7-2535-9E8B-7890FAD6C476}",
+    "Hash": "{B7B26D49-167D-F725-E3E9-BE14A175A209}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
     "Media": [
+     {
+      "Id": "34200389",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FW_Walk_01.wav",
+      "CachePath": "SFX/FW_Walk_01_818F3B66.wem"
+     },
      {
       "Id": "34285485",
       "Language": "SFX",
@@ -22,6 +30,118 @@
       "Location": "Memory",
       "ShortName": "Bush_Hide_SFX.wav",
       "CachePath": "SFX/Bush_Hide_SFX_666D8AC0.wem"
+     },
+     {
+      "Id": "39838525",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Mud\\FM_Crouch_04.wav",
+      "CachePath": "SFX/Crouch/Mud/FM_Crouch_04_818F3B66.wem"
+     },
+     {
+      "Id": "66747911",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Grass\\FG_Run_01.wav",
+      "CachePath": "SFX/Run/Grass/FG_Run_01_A5EC3E29.wem"
+     },
+     {
+      "Id": "85134027",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Concrete\\FC_Run_01.wav",
+      "CachePath": "SFX/Run/Concrete/FC_Run_01_70571DFD.wem"
+     },
+     {
+      "Id": "101159179",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FW_Walk_02.wav",
+      "CachePath": "SFX/FW_Walk_02_818F3B66.wem"
+     },
+     {
+      "Id": "105008342",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FG_Walk_04.wav",
+      "CachePath": "SFX/FG_Walk_04_818F3B66.wem"
+     },
+     {
+      "Id": "112183044",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Mud\\FM_Run_02.wav",
+      "CachePath": "SFX/Run/Mud/FM_Run_02_C50AC697.wem"
+     },
+     {
+      "Id": "136235400",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FG_Walk_03.wav",
+      "CachePath": "SFX/FG_Walk_03_818F3B66.wem"
+     },
+     {
+      "Id": "136786731",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Grass\\FG_Crouch_01.wav",
+      "CachePath": "SFX/Crouch/Grass/FG_Crouch_01_818F3B66.wem"
+     },
+     {
+      "Id": "157094261",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FC_Walk_04.wav",
+      "CachePath": "SFX/FC_Walk_04_818F3B66.wem"
+     },
+     {
+      "Id": "200259179",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Grass\\FG_Run_02.wav",
+      "CachePath": "SFX/Run/Grass/FG_Run_02_4A2E7B6D.wem"
+     },
+     {
+      "Id": "204298218",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Wood\\FW_Crouch_04.wav",
+      "CachePath": "SFX/Crouch/Wood/FW_Crouch_04_818F3B66.wem"
+     },
+     {
+      "Id": "217471437",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FW_Walk_03.wav",
+      "CachePath": "SFX/FW_Walk_03_818F3B66.wem"
+     },
+     {
+      "Id": "254631940",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FD_Walk_01.wav",
+      "CachePath": "SFX/FD_Walk_01_818F3B66.wem"
+     },
+     {
+      "Id": "284080690",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FG_Walk_02.wav",
+      "CachePath": "SFX/FG_Walk_02_818F3B66.wem"
      },
      {
       "Id": "285985108",
@@ -32,12 +152,212 @@
       "CachePath": "SFX/Bird_Chirp_818F3B66.wem"
      },
      {
+      "Id": "304133558",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Concrete\\FC_Crouch_04.wav",
+      "CachePath": "SFX/Crouch/Concrete/FC_Crouch_04_818F3B66.wem"
+     },
+     {
+      "Id": "317441385",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FC_Walk_01.wav",
+      "CachePath": "SFX/FC_Walk_01_818F3B66.wem"
+     },
+     {
+      "Id": "334551426",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Grass\\FG_Crouch_03.wav",
+      "CachePath": "SFX/Crouch/Grass/FG_Crouch_03_818F3B66.wem"
+     },
+     {
+      "Id": "337861935",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Concrete\\FC_Run_03.wav",
+      "CachePath": "SFX/Run/Concrete/FC_Run_03_A87CF966.wem"
+     },
+     {
+      "Id": "370919123",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Dirt\\FD_Crouch_03.wav",
+      "CachePath": "SFX/Crouch/Dirt/FD_Crouch_03_818F3B66.wem"
+     },
+     {
+      "Id": "434020623",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Dirt\\FD_Crouch_02.wav",
+      "CachePath": "SFX/Crouch/Dirt/FD_Crouch_02_818F3B66.wem"
+     },
+     {
+      "Id": "436913025",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Mud\\FM_Run_04.wav",
+      "CachePath": "SFX/Run/Mud/FM_Run_04_AEA8B81E.wem"
+     },
+     {
+      "Id": "483909267",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Wood\\FW_Run_04.wav",
+      "CachePath": "SFX/Run/Wood/FW_Run_04_3140A1B9.wem"
+     },
+     {
+      "Id": "498673575",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Concrete\\FC_Crouch_03.wav",
+      "CachePath": "SFX/Crouch/Concrete/FC_Crouch_03_818F3B66.wem"
+     },
+     {
       "Id": "524189403",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Bird_Chirp_Silence_1.wav",
       "CachePath": "SFX/Bird_Chirp_Silence_1_818F3B66.wem"
+     },
+     {
+      "Id": "546020278",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FW_Walk_04.wav",
+      "CachePath": "SFX/FW_Walk_04_818F3B66.wem"
+     },
+     {
+      "Id": "562290570",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Dirt\\FD_Run_02.wav",
+      "CachePath": "SFX/Run/Dirt/FD_Run_02_F526F84F.wem"
+     },
+     {
+      "Id": "566222560",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Dirt\\FD_Crouch_04.wav",
+      "CachePath": "SFX/Crouch/Dirt/FD_Crouch_04_818F3B66.wem"
+     },
+     {
+      "Id": "568292214",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FD_Walk_02.wav",
+      "CachePath": "SFX/FD_Walk_02_818F3B66.wem"
+     },
+     {
+      "Id": "728949272",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Grass\\FG_Crouch_04.wav",
+      "CachePath": "SFX/Crouch/Grass/FG_Crouch_04_818F3B66.wem"
+     },
+     {
+      "Id": "730363411",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FC_Walk_02.wav",
+      "CachePath": "SFX/FC_Walk_02_818F3B66.wem"
+     },
+     {
+      "Id": "730513658",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FG_Walk_01.wav",
+      "CachePath": "SFX/FG_Walk_01_818F3B66.wem"
+     },
+     {
+      "Id": "731528522",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Concrete\\FC_Crouch_01.wav",
+      "CachePath": "SFX/Crouch/Concrete/FC_Crouch_01_818F3B66.wem"
+     },
+     {
+      "Id": "763925832",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Concrete\\FC_Run_04.wav",
+      "CachePath": "SFX/Run/Concrete/FC_Run_04_F530A520.wem"
+     },
+     {
+      "Id": "781062642",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Dirt\\FD_Run_04.wav",
+      "CachePath": "SFX/Run/Dirt/FD_Run_04_8489B5C7.wem"
+     },
+     {
+      "Id": "794780398",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Wood\\FW_Crouch_01.wav",
+      "CachePath": "SFX/Crouch/Wood/FW_Crouch_01_818F3B66.wem"
+     },
+     {
+      "Id": "818585965",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Dirt\\FD_Crouch_01.wav",
+      "CachePath": "SFX/Crouch/Dirt/FD_Crouch_01_818F3B66.wem"
+     },
+     {
+      "Id": "822638560",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Mud\\FM_Crouch_02.wav",
+      "CachePath": "SFX/Crouch/Mud/FM_Crouch_02_818F3B66.wem"
+     },
+     {
+      "Id": "844366890",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Grass\\FG_Run_03.wav",
+      "CachePath": "SFX/Run/Grass/FG_Run_03_C0542BF3.wem"
+     },
+     {
+      "Id": "845800366",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Concrete\\FC_Run_02.wav",
+      "CachePath": "SFX/Run/Concrete/FC_Run_02_7C030D73.wem"
+     },
+     {
+      "Id": "845882220",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Grass\\FG_Run_04.wav",
+      "CachePath": "SFX/Run/Grass/FG_Run_04_2B628962.wem"
      },
      {
       "Id": "883724864",
@@ -48,12 +368,84 @@
       "CachePath": "SFX/Player_Jump_818F3B66.wem"
      },
      {
+      "Id": "884197739",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FM_Walk_02.wav",
+      "CachePath": "SFX/FM_Walk_02_818F3B66.wem"
+     },
+     {
+      "Id": "890288851",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Mud\\FM_Run_03.wav",
+      "CachePath": "SFX/Run/Mud/FM_Run_03_6D606C03.wem"
+     },
+     {
+      "Id": "898577722",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FM_Walk_03.wav",
+      "CachePath": "SFX/FM_Walk_03_818F3B66.wem"
+     },
+     {
+      "Id": "904728153",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Mud\\FM_Crouch_01.wav",
+      "CachePath": "SFX/Crouch/Mud/FM_Crouch_01_818F3B66.wem"
+     },
+     {
+      "Id": "911146764",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Dirt\\FD_Run_01.wav",
+      "CachePath": "SFX/Run/Dirt/FD_Run_01_88674E26.wem"
+     },
+     {
+      "Id": "912372568",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Mud\\FM_Crouch_03.wav",
+      "CachePath": "SFX/Crouch/Mud/FM_Crouch_03_818F3B66.wem"
+     },
+     {
+      "Id": "914610129",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Wood\\FW_Crouch_03.wav",
+      "CachePath": "SFX/Crouch/Wood/FW_Crouch_03_818F3B66.wem"
+     },
+     {
+      "Id": "914638944",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Mud\\FM_Run_01.wav",
+      "CachePath": "SFX/Run/Mud/FM_Run_01_3ED3A76F.wem"
+     },
+     {
       "Id": "915911138",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Light_Wind.wav",
       "CachePath": "SFX/Light_Wind_2695217C.wem"
+     },
+     {
+      "Id": "928335331",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Wood\\FW_Crouch_02.wav",
+      "CachePath": "SFX/Crouch/Wood/FW_Crouch_02_818F3B66.wem"
      },
      {
       "Id": "936474937",
@@ -64,12 +456,92 @@
       "CachePath": "SFX/Stomach_Growl_818F3B66.wem"
      },
      {
+      "Id": "944969359",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Wood\\FW_Run_02.wav",
+      "CachePath": "SFX/Run/Wood/FW_Run_02_750E086E.wem"
+     },
+     {
+      "Id": "960127710",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Grass\\FG_Crouch_02.wav",
+      "CachePath": "SFX/Crouch/Grass/FG_Crouch_02_818F3B66.wem"
+     },
+     {
+      "Id": "970130963",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FD_Walk_04.wav",
+      "CachePath": "SFX/FD_Walk_04_818F3B66.wem"
+     },
+     {
+      "Id": "972335436",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FM_Walk_04.wav",
+      "CachePath": "SFX/FM_Walk_04_818F3B66.wem"
+     },
+     {
       "Id": "1013486078",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Bird_Chirp_Silence_2.wav",
       "CachePath": "SFX/Bird_Chirp_Silence_2_818F3B66.wem"
+     },
+     {
+      "Id": "1014974612",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crouch\\Concrete\\FC_Crouch_02.wav",
+      "CachePath": "SFX/Crouch/Concrete/FC_Crouch_02_818F3B66.wem"
+     },
+     {
+      "Id": "1025157370",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FC_Walk_03.wav",
+      "CachePath": "SFX/FC_Walk_03_818F3B66.wem"
+     },
+     {
+      "Id": "1034388442",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Wood\\FW_Run_03.wav",
+      "CachePath": "SFX/Run/Wood/FW_Run_03_C5BF07B8.wem"
+     },
+     {
+      "Id": "1038292263",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FM_Walk_01.wav",
+      "CachePath": "SFX/FM_Walk_01_818F3B66.wem"
+     },
+     {
+      "Id": "1048356714",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Run\\Dirt\\FD_Run_03.wav",
+      "CachePath": "SFX/Run/Dirt/FD_Run_03_CC1552C7.wem"
+     },
+     {
+      "Id": "1050331495",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FD_Walk_03.wav",
+      "CachePath": "SFX/FD_Walk_03_818F3B66.wem"
      }
     ],
     "Plugins": {
@@ -120,6 +592,128 @@
       ]
      },
      {
+      "Id": "2655407367",
+      "Name": "Crouch",
+      "ObjectPath": "\\Events\\Cat_Footsteps\\Crouch",
+      "GUID": "{7DC357B2-C37E-4BB1-A723-E8D043D0FFD5}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.33332604",
+      "DurationMax": "0.6623695",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2892294123",
+         "Id": "2195636714",
+         "GUID": "{457DFC9E-8EDA-4334-A398-616659C6A450}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "370919123"
+         },
+         {
+          "Id": "434020623"
+         },
+         {
+          "Id": "566222560"
+         },
+         {
+          "Id": "818585965"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2892294123",
+         "Id": "712897245",
+         "GUID": "{0B8C6FBA-2501-4400-B640-329D2ED7C000}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "39838525"
+         },
+         {
+          "Id": "822638560"
+         },
+         {
+          "Id": "904728153"
+         },
+         {
+          "Id": "912372568"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2892294123",
+         "Id": "4248645337",
+         "GUID": "{1671B6DC-5EBB-4392-9FDC-936DC363F4E6}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "136786731"
+         },
+         {
+          "Id": "334551426"
+         },
+         {
+          "Id": "728949272"
+         },
+         {
+          "Id": "960127710"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2892294123",
+         "Id": "841620460",
+         "GUID": "{F243E8E9-7B89-48D9-89B4-2B6CF8EA1FF1}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "304133558"
+         },
+         {
+          "Id": "498673575"
+         },
+         {
+          "Id": "731528522"
+         },
+         {
+          "Id": "1014974612"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2892294123",
+         "Id": "2058049674",
+         "GUID": "{1743A4EC-95BA-40D3-BB7A-9508A93DDB75}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "204298218"
+         },
+         {
+          "Id": "794780398"
+         },
+         {
+          "Id": "914610129"
+         },
+         {
+          "Id": "928335331"
+         }
+        ]
+       }
+      ]
+     },
+     {
       "Id": "1995930400",
       "Name": "Light_Wind",
       "ObjectPath": "\\Events\\Default Work Unit\\Light_Wind",
@@ -153,6 +747,125 @@
       }
      },
      {
+      "Id": "712161704",
+      "Name": "Run",
+      "ObjectPath": "\\Events\\Cat_Footsteps\\Run",
+      "GUID": "{8C763027-2DD0-400E-BD42-7326C7B29EFF}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.06697816",
+      "DurationMax": "0.19316061",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "702303188",
+         "Id": "4248645337",
+         "GUID": "{FC191B44-EE71-439C-9C8B-291BAE83922C}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "66747911"
+         },
+         {
+          "Id": "200259179"
+         },
+         {
+          "Id": "844366890"
+         },
+         {
+          "Id": "845882220"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "702303188",
+         "Id": "712897245",
+         "GUID": "{BC1A6A44-E2EF-4937-917A-E9BDF2859FC5}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "112183044"
+         },
+         {
+          "Id": "436913025"
+         },
+         {
+          "Id": "890288851"
+         },
+         {
+          "Id": "914638944"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "702303188",
+         "Id": "2058049674",
+         "GUID": "{B00EB97A-52D9-4E76-A25F-91A0BF5A9148}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "483909267"
+         },
+         {
+          "Id": "944969359"
+         },
+         {
+          "Id": "1034388442"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "702303188",
+         "Id": "841620460",
+         "GUID": "{83B0FFC9-2D86-4774-BED7-1A09A228F5AB}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "85134027"
+         },
+         {
+          "Id": "337861935"
+         },
+         {
+          "Id": "763925832"
+         },
+         {
+          "Id": "845800366"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "702303188",
+         "Id": "2195636714",
+         "GUID": "{008E87D2-B6D0-468E-A15B-85F432A7740B}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "562290570"
+         },
+         {
+          "Id": "781062642"
+         },
+         {
+          "Id": "911146764"
+         },
+         {
+          "Id": "1048356714"
+         }
+        ]
+       }
+      ]
+     },
+     {
       "Id": "3382909414",
       "Name": "Stomach_Growl",
       "ObjectPath": "\\Events\\Default Work Unit\\Stomach_Growl",
@@ -165,10 +878,248 @@
         "Id": "936474937"
        }
       ]
+     },
+     {
+      "Id": "2108779966",
+      "Name": "Walk",
+      "ObjectPath": "\\Events\\Cat_Footsteps\\Walk",
+      "GUID": "{BACA2F4B-D7DC-467F-9918-4EEC4E7D9DE9}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.22112848",
+      "DurationMax": "0.4978119",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "93351266",
+         "Id": "4248645337",
+         "GUID": "{4AEAED18-2BC6-4EEE-AAA8-A00243208A8F}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "105008342"
+         },
+         {
+          "Id": "136235400"
+         },
+         {
+          "Id": "284080690"
+         },
+         {
+          "Id": "730513658"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "93351266",
+         "Id": "712897245",
+         "GUID": "{CE31C332-33CF-4F2D-82DB-E9DE57057893}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "884197739"
+         },
+         {
+          "Id": "898577722"
+         },
+         {
+          "Id": "972335436"
+         },
+         {
+          "Id": "1038292263"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "93351266",
+         "Id": "841620460",
+         "GUID": "{72DC2BAD-8808-4DE0-81B6-29184AC7B11A}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "157094261"
+         },
+         {
+          "Id": "317441385"
+         },
+         {
+          "Id": "730363411"
+         },
+         {
+          "Id": "1025157370"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "93351266",
+         "Id": "2058049674",
+         "GUID": "{D30A74C3-7E53-475C-B106-5B6AF1932756}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "34200389"
+         },
+         {
+          "Id": "101159179"
+         },
+         {
+          "Id": "217471437"
+         },
+         {
+          "Id": "546020278"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "93351266",
+         "Id": "2195636714",
+         "GUID": "{4AF57CD0-6E7F-4086-ACA4-FA7785C9871A}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "254631940"
+         },
+         {
+          "Id": "568292214"
+         },
+         {
+          "Id": "970130963"
+         },
+         {
+          "Id": "1050331495"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "93351266",
+      "Name": "Material_Walk",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Material_Walk",
+      "GUID": "{78CC5531-AAA3-4AB7-AD12-CB875CF48B89}",
+      "Switches": [
+       {
+        "Id": "712897245",
+        "Name": "Mud",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Walk\\Mud",
+        "GUID": "{CE31C332-33CF-4F2D-82DB-E9DE57057893}"
+       },
+       {
+        "Id": "841620460",
+        "Name": "Concrete",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Walk\\Concrete",
+        "GUID": "{72DC2BAD-8808-4DE0-81B6-29184AC7B11A}"
+       },
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Walk\\Wood",
+        "GUID": "{D30A74C3-7E53-475C-B106-5B6AF1932756}"
+       },
+       {
+        "Id": "2195636714",
+        "Name": "Dirt",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Walk\\Dirt",
+        "GUID": "{4AF57CD0-6E7F-4086-ACA4-FA7785C9871A}"
+       },
+       {
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Walk\\Grass",
+        "GUID": "{4AEAED18-2BC6-4EEE-AAA8-A00243208A8F}"
+       }
+      ]
+     },
+     {
+      "Id": "702303188",
+      "Name": "Material_Run",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Material_Run",
+      "GUID": "{F75D5994-87CC-459E-A390-6011CDC00E13}",
+      "Switches": [
+       {
+        "Id": "712897245",
+        "Name": "Mud",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Run\\Mud",
+        "GUID": "{BC1A6A44-E2EF-4937-917A-E9BDF2859FC5}"
+       },
+       {
+        "Id": "841620460",
+        "Name": "Concrete",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Run\\Concrete",
+        "GUID": "{83B0FFC9-2D86-4774-BED7-1A09A228F5AB}"
+       },
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Run\\Wood",
+        "GUID": "{B00EB97A-52D9-4E76-A25F-91A0BF5A9148}"
+       },
+       {
+        "Id": "2195636714",
+        "Name": "Dirt",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Run\\Dirt",
+        "GUID": "{008E87D2-B6D0-468E-A15B-85F432A7740B}"
+       },
+       {
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Run\\Grass",
+        "GUID": "{FC191B44-EE71-439C-9C8B-291BAE83922C}"
+       }
+      ]
+     },
+     {
+      "Id": "2892294123",
+      "Name": "Material_Crouch",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Material_Crouch",
+      "GUID": "{11F434CE-12CD-479B-BB9E-9A584F4F68C2}",
+      "Switches": [
+       {
+        "Id": "712897245",
+        "Name": "Mud",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Crouch\\Mud",
+        "GUID": "{0B8C6FBA-2501-4400-B640-329D2ED7C000}"
+       },
+       {
+        "Id": "841620460",
+        "Name": "Concrete",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Crouch\\Concrete",
+        "GUID": "{F243E8E9-7B89-48D9-89B4-2B6CF8EA1FF1}"
+       },
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Crouch\\Wood",
+        "GUID": "{1743A4EC-95BA-40D3-BB7A-9508A93DDB75}"
+       },
+       {
+        "Id": "2195636714",
+        "Name": "Dirt",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Crouch\\Dirt",
+        "GUID": "{457DFC9E-8EDA-4334-A398-616659C6A450}"
+       },
+       {
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material_Crouch\\Grass",
+        "GUID": "{1671B6DC-5EBB-4392-9FDC-936DC363F4E6}"
+       }
+      ]
      }
     ]
    }
   ],
-  "FileHash": "{7A340D27-90FF-B959-472F-470B60848E94}"
+  "FileHash": "{D2A9AB51-66E7-5006-804D-DA1381C66A7A}"
  }
 }

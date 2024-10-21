@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{9F3CA488-8FDA-43B1-9E9E-510976FFD4D4}" SchemaVersion="119">
 	<Switches>
-		<WorkUnit Name="Default Work Unit" ID="{9F3CA488-8FDA-43B1-9E9E-510976FFD4D4}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{9F3CA488-8FDA-43B1-9E9E-510976FFD4D4}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Material_Walk" ID="{78CC5531-AAA3-4AB7-AD12-CB875CF48B89}">
+					<ChildrenList>
+						<Switch Name="Dirt" ID="{4AF57CD0-6E7F-4086-ACA4-FA7785C9871A}"/>
+						<Switch Name="Grass" ID="{4AEAED18-2BC6-4EEE-AAA8-A00243208A8F}"/>
+						<Switch Name="Mud" ID="{CE31C332-33CF-4F2D-82DB-E9DE57057893}"/>
+						<Switch Name="Wood" ID="{D30A74C3-7E53-475C-B106-5B6AF1932756}"/>
+						<Switch Name="Concrete" ID="{72DC2BAD-8808-4DE0-81B6-29184AC7B11A}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Material_Run" ID="{F75D5994-87CC-459E-A390-6011CDC00E13}">
+					<ChildrenList>
+						<Switch Name="Concrete" ID="{83B0FFC9-2D86-4774-BED7-1A09A228F5AB}"/>
+						<Switch Name="Dirt" ID="{008E87D2-B6D0-468E-A15B-85F432A7740B}"/>
+						<Switch Name="Grass" ID="{FC191B44-EE71-439C-9C8B-291BAE83922C}"/>
+						<Switch Name="Mud" ID="{BC1A6A44-E2EF-4937-917A-E9BDF2859FC5}"/>
+						<Switch Name="Wood" ID="{B00EB97A-52D9-4E76-A25F-91A0BF5A9148}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Material_Crouch" ID="{11F434CE-12CD-479B-BB9E-9A584F4F68C2}">
+					<ChildrenList>
+						<Switch Name="Concrete" ID="{F243E8E9-7B89-48D9-89B4-2B6CF8EA1FF1}"/>
+						<Switch Name="Dirt" ID="{457DFC9E-8EDA-4334-A398-616659C6A450}"/>
+						<Switch Name="Grass" ID="{1671B6DC-5EBB-4392-9FDC-936DC363F4E6}"/>
+						<Switch Name="Mud" ID="{0B8C6FBA-2501-4400-B640-329D2ED7C000}"/>
+						<Switch Name="Wood" ID="{1743A4EC-95BA-40D3-BB7A-9508A93DDB75}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
 	</Switches>
 </WwiseDocument>

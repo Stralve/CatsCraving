@@ -1,19 +1,103 @@
 Event	ID	Name			Wwise Object Path	Notes
+	712161704	Run			\Cat_Footsteps\Run	
 	1006801162	Bush_Hide			\Default Work Unit\Bush_Hide	
 	1305133589	Player_Jump			\Default Work Unit\Player_Jump	
 	1995930400	Light_Wind			\Default Work Unit\Light_Wind	
+	2108779966	Walk			\Cat_Footsteps\Walk	
+	2655407367	Crouch			\Cat_Footsteps\Crouch	
 	3382909414	Stomach_Growl			\Default Work Unit\Stomach_Growl	
 	4011507809	Bird_Chirp			\Default Work Unit\Bird_Chirp	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	93351266	Material_Walk			\Default Work Unit\Material_Walk	
+	702303188	Material_Run			\Default Work Unit\Material_Run	
+	2892294123	Material_Crouch			\Default Work Unit\Material_Crouch	
+
+Switch	ID	Name	Switch Group			Notes
+	712897245	Mud	Material_Walk			
+	841620460	Concrete	Material_Walk			
+	2058049674	Wood	Material_Walk			
+	2195636714	Dirt	Material_Walk			
+	4248645337	Grass	Material_Walk			
+	712897245	Mud	Material_Run			
+	841620460	Concrete	Material_Run			
+	2058049674	Wood	Material_Run			
+	2195636714	Dirt	Material_Run			
+	4248645337	Grass	Material_Run			
+	712897245	Mud	Material_Crouch			
+	841620460	Concrete	Material_Crouch			
+	2058049674	Wood	Material_Crouch			
+	2195636714	Dirt	Material_Crouch			
+	4248645337	Grass	Material_Crouch			
 
 Effect plug-ins	ID	Name	Type				Notes
 	1069441436	Parametric EQ (Custom)	Wwise Parametric EQ			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	34200389	FW_Walk_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FW_Walk_01_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Wood\FW_Walk_01		91668
 	34285485	Bush_Hide_SFX	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Bush_Hide_SFX_666D8AC0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bush_Hide_SFX		131452
+	39838525	FM_Crouch_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Mud\FM_Crouch_04_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Mud\FM_Crouch_04		113396
+	66747911	FG_Run_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Grass\FG_Run_01_A5EC3E29.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Grass\FG_Run_01		21048
+	85134027	FC_Run_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Concrete\FC_Run_01_70571DFD.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Concrete\FC_Run_01		17072
+	101159179	FW_Walk_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FW_Walk_02_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Wood\FW_Walk_02		63768
+	105008342	FG_Walk_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FG_Walk_04_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Grass\FG_Walk_04		54524
+	112183044	FM_Run_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Mud\FM_Run_02_C50AC697.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Mud\FM_Run_02		28040
+	136235400	FG_Walk_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FG_Walk_03_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Grass\FG_Walk_03		65800
+	136786731	FG_Crouch_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Grass\FG_Crouch_01_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Grass\FG_Crouch_01		98656
+	157094261	FC_Walk_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FC_Walk_04_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Concrete\FC_Walk_04		47752
+	200259179	FG_Run_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Grass\FG_Run_02_4A2E7B6D.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Grass\FG_Run_02		23528
+	204298218	FW_Crouch_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Wood\FW_Crouch_04_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Wood\FW_Crouch_04		85820
+	217471437	FW_Walk_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FW_Walk_03_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Wood\FW_Walk_03		81616
+	254631940	FD_Walk_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FD_Walk_01_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Dirt\FD_Walk_01		66072
+	284080690	FG_Walk_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FG_Walk_02_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Grass\FG_Walk_02		73556
 	285985108	Bird_Chirp	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Bird_Chirp_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bird_Chirp\Bird_Chirp		4320144
+	304133558	FC_Crouch_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Concrete\FC_Crouch_04_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Concrete\FC_Crouch_04		71932
+	317441385	FC_Walk_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FC_Walk_01_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Concrete\FC_Walk_01		68864
+	334551426	FG_Crouch_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Grass\FG_Crouch_03_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Grass\FG_Crouch_03		96320
+	337861935	FC_Run_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Concrete\FC_Run_03_A87CF966.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Concrete\FC_Run_03		15512
+	370919123	FD_Crouch_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Dirt\FD_Crouch_03_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Dirt\FD_Crouch_03		74600
+	434020623	FD_Crouch_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Dirt\FD_Crouch_02_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Dirt\FD_Crouch_02		72264
+	436913025	FM_Run_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Mud\FM_Run_04_AEA8B81E.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Mud\FM_Run_04		29240
+	483909267	FW_Run_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Wood\FW_Run_04_3140A1B9.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Wood\FW_Run_04		35388
+	498673575	FC_Crouch_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Concrete\FC_Crouch_03_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Concrete\FC_Crouch_03		77416
 	524189403	Bird_Chirp_Silence_1	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Bird_Chirp_Silence_1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bird_Chirp\Bird_Chirp_Silence_1		3899220
+	546020278	FW_Walk_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FW_Walk_04_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Wood\FW_Walk_04		85668
+	562290570	FD_Run_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Dirt\FD_Run_02_F526F84F.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Dirt\FD_Run_02		21576
+	566222560	FD_Crouch_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Dirt\FD_Crouch_04_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Dirt\FD_Crouch_04		85044
+	568292214	FD_Walk_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FD_Walk_02_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Dirt\FD_Walk_02		79444
+	728949272	FG_Crouch_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Grass\FG_Crouch_04_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Grass\FG_Crouch_04		90304
+	730363411	FC_Walk_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FC_Walk_02_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Concrete\FC_Walk_02		59808
+	730513658	FG_Walk_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FG_Walk_01_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Grass\FG_Walk_01		78872
+	731528522	FC_Crouch_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Concrete\FC_Crouch_01_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Concrete\FC_Crouch_01		82988
+	763925832	FC_Run_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Concrete\FC_Run_04_F530A520.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Concrete\FC_Run_04		14532
+	781062642	FD_Run_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Dirt\FD_Run_04_8489B5C7.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Dirt\FD_Run_04		19596
+	794780398	FW_Crouch_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Wood\FW_Crouch_01_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Wood\FW_Crouch_01		87656
+	818585965	FD_Crouch_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Dirt\FD_Crouch_01_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Dirt\FD_Crouch_01		75980
+	822638560	FM_Crouch_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Mud\FM_Crouch_02_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Mud\FM_Crouch_02		105420
+	844366890	FG_Run_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Grass\FG_Run_03_C0542BF3.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Grass\FG_Run_03		24472
+	845800366	FC_Run_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Concrete\FC_Run_02_7C030D73.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Concrete\FC_Run_02		17196
+	845882220	FG_Run_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Grass\FG_Run_04_2B628962.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Grass\FG_Run_04		26144
 	883724864	Player_Jump	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Player_Jump_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Jump		157068
+	884197739	FM_Walk_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FM_Walk_02_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Mud\FM_Walk_02		83160
+	890288851	FM_Run_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Mud\FM_Run_03_6D606C03.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Mud\FM_Run_03		28872
+	898577722	FM_Walk_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FM_Walk_03_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Mud\FM_Walk_03		83872
+	904728153	FM_Crouch_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Mud\FM_Crouch_01_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Mud\FM_Crouch_01		104836
+	911146764	FD_Run_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Dirt\FD_Run_01_88674E26.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Dirt\FD_Run_01		20804
+	912372568	FM_Crouch_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Mud\FM_Crouch_03_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Mud\FM_Crouch_03		103040
+	914610129	FW_Crouch_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Wood\FW_Crouch_03_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Wood\FW_Crouch_03		90136
+	914638944	FM_Run_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Mud\FM_Run_01_3ED3A76F.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Mud\FM_Run_01		25304
 	915911138	Light_Wind	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Light_Wind_2695217C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Light_Wind		12462124
+	928335331	FW_Crouch_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Wood\FW_Crouch_02_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Wood\FW_Crouch_02		109012
 	936474937	Stomach_Growl	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Stomach_Growl_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Stomach_Growl		431220
+	944969359	FW_Run_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Wood\FW_Run_02_750E086E.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Wood\FW_Run_02		30032
+	960127710	FG_Crouch_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Grass\FG_Crouch_02_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Grass\FG_Crouch_02		109680
+	970130963	FD_Walk_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FD_Walk_04_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Dirt\FD_Walk_04		53720
+	972335436	FM_Walk_04	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FM_Walk_04_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Mud\FM_Walk_04		69768
 	1013486078	Bird_Chirp_Silence_2	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Bird_Chirp_Silence_2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bird_Chirp\Bird_Chirp_Silence_2		3899220
+	1014974612	FC_Crouch_02	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Crouch\Concrete\FC_Crouch_02_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Crouch\Concrete\FC_Crouch_02		82116
+	1025157370	FC_Walk_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FC_Walk_03_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Concrete\FC_Walk_03		56512
+	1034388442	FW_Run_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Wood\FW_Run_03_C5BF07B8.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Wood\FW_Run_03		36128
+	1038292263	FM_Walk_01	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FM_Walk_01_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Mud\FM_Walk_01		85248
+	1048356714	FD_Run_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Run\Dirt\FD_Run_03_CC1552C7.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Run\Dirt\FD_Run_03		25520
+	1050331495	FD_Walk_03	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\FD_Walk_03_818F3B66.wem		\Actor-Mixer Hierarchy\Cat_Footsteps\Walk\Dirt\FD_Walk_03		65912
 

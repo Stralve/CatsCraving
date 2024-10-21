@@ -1,16 +1,15 @@
 Event	ID	Name			Wwise Object Path	Notes
-	493168985	Loading_Screen_BGM			\Music\Loading_Screen_BGM	
 	2111084023	Game_Over_BGM			\Music\Game_Over_BGM	
 	2788066663	Main_Menu_BGM			\Music\Main_Menu_BGM	
 	3231757965	Forest_BGM			\Music\Forest_BGM	
-	3291746406	Win_BGM			\Music\Win_BGM	
 	4095620922	Farm_BGM			\Music\Farm_BGM	
+	4236911706	Town_BGM			\Music\Town_BGM	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	25807604	Loading-Screen_102bpm	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Loading-Screen_102bpm_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Loading_Screen_BGM\Loading-Screen_102bpm\Loading-Screen_102bpm		2722816
 	187933395	Farm_96bpm	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Farm_96bpm_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Farm_BGM\Farm_96bpm\Farm_96bpm		24488560
+	194523828	Town_108bpm_loop	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Town_108bpm_loop_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Town_BGM\Town_108bpm_loop\Town_108bpm_loop		19203280
+	202569068	Town_108bpm_intro	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Town_108bpm_intro_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Town_BGM\Town_108bpm_intro\Town_108bpm_intro		432528
 	212820908	Game-Over_38bpm_intro	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Game-Over_38bpm_intro_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Game_Over_BGM\Game-Over_38bpm_intro\Game-Over_38bpm_intro		7511600
-	414420615	Win_70bpm	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Win_70bpm_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Win_BGM\Win_70bpm\Win_70bpm		1978072
 	465635206	Forest-Exploring_66bpm_intro	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Forest-Exploring_66bpm_intro_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Forest_BGM\Forest-Exploring_66bpm_intro\Forest-Exploring_66bpm_intro		1409504
 	560918184	Game-Over_38bpm_loop_pt1	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Game-Over_38bpm_loop_pt1_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Game_Over_BGM\Game-Over_38bpm_loop_pt1\Game-Over_38bpm_loop_pt1		3763856
 	597820407	Main-Menu_116bpm_loop	Y:\Documents\CatsCravingWwiseProject\.cache\Windows\SFX\Main-Menu_116bpm_loop_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Main_Menu_BGM\Main-Menu_116bpm_loop\Main-Menu_116bpm_loop		11272096

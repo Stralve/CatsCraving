@@ -6,10 +6,12 @@
 				<SoundBank Name="Main" ID="{1B0E7F2C-0393-4176-96D6-B771726D5791}">
 					<ObjectInclusionList>
 						<ObjectRef Name="Bird_Chirp" ID="{D0AE0943-729D-418A-8081-AE88404EC67B}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Cat_Footsteps" ID="{86350FB5-F20A-4344-88C0-954E78C5A90E}" WorkUnitID="{86350FB5-F20A-4344-88C0-954E78C5A90E}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Bush_Hide" ID="{90C23351-3EB0-4482-95C6-5B77995056EA}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Light_Wind" ID="{402CC96E-D237-45CC-A058-62B16401E298}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Stomach_Growl" ID="{B4795BCF-31FA-4625-ADCF-CAA35EC13233}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Player_Jump" ID="{7CABB570-1C06-4919-830F-A67EA3B4C4AD}" WorkUnitID="{C12C41F0-3AD1-49F9-BF7B-6AFCE3009FEB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Crouch" ID="{7DC357B2-C37E-4BB1-A723-E8D043D0FFD5}" WorkUnitID="{86350FB5-F20A-4344-88C0-954E78C5A90E}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
@@ -17,6 +19,7 @@
 				<SoundBank Name="Music" ID="{35D2EC8C-4AEE-4B63-8F12-F85C54D93F96}">
 					<ObjectInclusionList>
 						<ObjectRef Name="Music" ID="{EAF34A4B-2EB2-4053-AF76-EE8799E4F82D}" WorkUnitID="{EAF34A4B-2EB2-4053-AF76-EE8799E4F82D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Town_BGM" ID="{090A0A5E-EAF3-4CE6-B808-17ED4AD46D4C}" WorkUnitID="{EAF34A4B-2EB2-4053-AF76-EE8799E4F82D}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
